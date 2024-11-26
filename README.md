@@ -1,5 +1,14 @@
 # Пример непонятно чего
 
+$$
+    f(x) = 
+    \begin{cases}
+        -1, & \textit{if} \ x < 0;\\
+        0, & \textit{if}  \ x = 0;\\
+        1, & \textit{otherwise}.
+    \end{cases}
+$$
+
 ```cpp
 struct DSU {
 
